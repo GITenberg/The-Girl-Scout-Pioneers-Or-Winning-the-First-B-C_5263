@@ -1,0 +1,27 @@
+_repo: The-Girl-Scout-Pioneers-Or-Winning-the-First-B-C_5263
+creator:
+  author:
+    agent_name: Garis, Lilian
+    aliases:
+    - Garis, Lilian C. McNamara
+    - Garis, Howard Roger, Mrs.
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '1754'
+    url: http://www.gutenberg.org/2009/agents/1754
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Girl Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Girl Scout Pioneers; Or, Winning the First B. C.
+url: http://www.gutenberg.org/ebooks/5263
