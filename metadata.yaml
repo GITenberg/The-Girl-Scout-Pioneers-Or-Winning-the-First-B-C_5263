@@ -1,5 +1,8 @@
 _repo: The-Girl-Scout-Pioneers-Or-Winning-the-First-B-C_5263
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garis, Lilian
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1754'
     url: http://www.gutenberg.org/2009/agents/1754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5263#The-Girl-Scout-Pioneers-Or-Winning-the-First-B-C
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
