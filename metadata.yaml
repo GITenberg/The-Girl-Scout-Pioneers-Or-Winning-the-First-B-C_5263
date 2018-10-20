@@ -1,5 +1,5 @@
 _repo: The-Girl-Scout-Pioneers-Or-Winning-the-First-B-C_5263
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Girl Scouts -- Juvenile fiction'
 - !lcc 'PZ'
+- GITenberg
 title: The Girl Scout Pioneers; Or, Winning the First B. C.
 url: http://www.gutenberg.org/ebooks/5263
